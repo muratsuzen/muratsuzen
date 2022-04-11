@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratsuzen&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratsuzen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://msuzen.blogspot.com/" rel="nofollow"><img src="https://img.shields.io/badge/blog-msuzen.blogspot-blue" alt="" data-canonical-src="https://img.shields.io/badge/blog-msuzen.blogspot-blue" style="max-width: 100%;"></a>
