@@ -1,6 +1,6 @@
 ### Merhabalar ben Murat👋
 
-Yazılım dünyasında sürekli yenilikleri takip edip, hem hobi hemde mesleki kazanım sağlaması açısından öğrenmeye devam ediyorum. Okuduğum makaleler, katıldığım seminer ve eğitimler ile öğrendiklerimi [bloğumda](https://msuzen.blogspot.com/) sizlerle paylaşmaktan keyif alıyorum. Sürekli öğrenme sürecimde [bloğumda](https://msuzen.blogspot.com/) paylaştığım makalelerin proje örneklerine burada ulaşabilirsiniz.
+Yazılım dünyasında sürekli yenilikleri takip edip, hem hobi hemde mesleki kazanım sağlaması açısından öğrenmeye devam ediyorum. Okuduğum makaleler, katıldığım seminer ve eğitimler ile öğrendiklerimi [bloğumda](https://msuzen.blogspot.com/) paylaşıyorum. Sürekli öğrenme sürecimde [bloğumda](https://msuzen.blogspot.com/) paylaştığım makalelerin proje örneklerine buradan ulaşabilirsiniz.
 <!--
 **muratsuzen/muratsuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
