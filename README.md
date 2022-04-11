@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratsuzen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://msuzen.blogspot.com/" rel="nofollow"><img src="https://img.shields.io/badge/blog-msuzen.blogspot-blue" alt="" data-canonical-src="https://img.shields.io/badge/blog-msuzen.blogspot-blue" style="max-width: 100%;"></a>
-<a href="https://twitter.com/muratsuezen" rel="nofollow"><img src="https://img.shields.io/badge/twitter-muratsuezen-blue?style=flat&logo=twitter" alt="" data-canonical-src="https://img.shields.io/badge/twitter-muratsuezen-blue?style=flat&logo=twitter" style="max-width: 100%;"></a>
+https://img.shields.io/badge/-muratsuzen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muratsuzen
 
