@@ -1,7 +1,6 @@
 ### Merhabalar ben Murat👋
 
 Yazılım dünyasında sürekli yenilikleri takip edip, hem hobi hemde mesleki kazanım sağlaması açısından öğrenmeye devam ediyorum. Okuduğum makaleler, katıldığım seminer ve eğitimler ile öğrendiklerimi *[bloğumda](https://msuzen.blogspot.com/)* paylaşıyorum. Sürekli öğrenme sürecimde bloğumda paylaştığım makalelerin proje örneklerine buradan ulaşabilirsiniz.
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff)
 
 <!--
 **muratsuzen/muratsuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
