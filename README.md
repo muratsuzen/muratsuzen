@@ -2,6 +2,9 @@
 
 Yazılım dünyasında sürekli yenilikleri takip edip, hem hobi hemde mesleki kazanım sağlaması açısından öğrenmeye devam ediyorum. Okuduğum makaleler, katıldığım seminer ve eğitimler ile öğrendiklerimi *[bloğumda](https://msuzen.blogspot.com/)* paylaşıyorum. Sürekli öğrenme sürecimde bloğumda paylaştığım makalelerin proje örneklerine buradan ulaşabilirsiniz.
 
+### Hello, I am Murat👋 
+I keep following the innovations in the software world and continue to learn in terms of both hobby and professional gain. I share the articles I read, the seminars and trainings I attended, and what I learned on my blog. You can find project examples of the articles I shared on my blog during my continuous learning process.
+
 <!--
 **muratsuzen/muratsuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
