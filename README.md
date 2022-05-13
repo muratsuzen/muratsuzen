@@ -1,5 +1,5 @@
 ### Hello, I am Murat👋 
-I keep following the innovations in the software world and continue to learn in terms of both hobby and professional gain. I share the articles I read, the seminars and trainings I attended, and what I learned on *[my blog](https://msuzen.blogspot.com/)*. You can find project examples of the articles I shared on my blog during my continuous learning process.
+I keep following the innovations in the software world and continue to learn in terms of both hobby and professional gain. I share the articles I read, the seminars and trainings I attended, and what I learned on *[my blog](https://msuzen.blogspot.com/)* and *[my medium account](https://muratsuzen.medium.com/)*. You can find project examples of the articles I shared on my blog during my continuous learning process.
 
 <!--
 **muratsuzen/muratsuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
